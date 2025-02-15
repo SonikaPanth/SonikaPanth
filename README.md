@@ -29,6 +29,17 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
+### 🎖 Earned Badges
+<p align="center">
+  <a href="https://github.com/users/SonikaPanth/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge">
+  </a>
+  <a href="https://github.com/users/SonikaPanth/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge">
+  </a>
+</p>
+
+
 
 
 ## 🏆 GitHub Achievements
