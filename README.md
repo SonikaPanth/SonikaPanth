@@ -1,8 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Sonika%20Panth,%20a%20Web%20Developer&fontSize=30&fontColor=fff&animation=fadeIn)
 
+
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
+
+
 
 ## 🚀 About Me
 
