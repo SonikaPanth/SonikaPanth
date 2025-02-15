@@ -28,10 +28,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SonikaPanth&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Achievements">
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonikaPanth&show_icons=true&theme=radical&include_all_commits=true&year=2024" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonikaPanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&year=2024" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonikaPanth&theme=radical&include_all_commits=true&year=2024" width="48%" alt="GitHub Streak">
 </p>
 
