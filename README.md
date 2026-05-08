@@ -12,7 +12,7 @@
 
 👋 Hi, I'm **Sonika Panth**, a **Web Developer** passionate about building interactive web applications. I specialize in:
 
-- ⚛ **React.js** & **Vue.js** for modern UI development
+- ⚛ **React.js** & **Next.js** for modern UI development
 - 🛠 **Node.js** & **MongoDB** for backend solutions
 - 🎨 **HTML, CSS, JavaScript** for crafting responsive designs
 - 💻 **C++** for problem-solving and algorithms
